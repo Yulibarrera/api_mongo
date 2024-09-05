@@ -1,0 +1,18 @@
+git init
+git add .
+git commit -m "Comentario"
+
+git config user.email "Cuenta de git@"
+git config user.name "nombre de usuario"
+git branch -M main
+git remote add origin https://github.com/JulianDev21/api_2821726.git
+git push -u origin main
+
+
+descargar el repositorio
+git pull
+
+actualizar el repositorio
+git add .
+git commit -m "Comentario"
+git push -u origin main
